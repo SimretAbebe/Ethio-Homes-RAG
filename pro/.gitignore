@@ -1,0 +1,39 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*$py.class
+
+# Chroma Vector Database (huge, recreated automatically)
+chroma_real_estate_db/
+chroma_real_estate_db/*
+
+# Large data file (do not upload to GitHub)
+review.csv
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Environment files
+.env
+.env.local
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs & temporary files
+*.log
+temp/
+tmp/
