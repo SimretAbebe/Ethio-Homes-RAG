@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+chroma_real_estate_db/
+.env
+
+# Node
+node_modules/
+dist/
+frontend/node_modules/
+frontend/dist/
+
+# Large files
+review.csv            # ← remove this line if you want CSV in repo (< 100MB)
+*.log
