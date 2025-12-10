@@ -1,0 +1,115 @@
+property_id,title,description,location,type,price,bedrooms,bathrooms,size,status
+1,"Ayat Sky Palace – Penthouse","Luxury 4-bedroom penthouse with panoramic city views, rooftop garden, and private elevator in Ayat’s flagship project.",Addis Ababa,apartment,8500000,4,4,320,Available
+2,"Ayat Gated Villa","Modern 5-bedroom villa inside Ayat’s secure gated community with 24/7 security and clubhouse access.",Addis Ababa,house,12000000,5,5,450,Available
+3,"Noah Real Estate – Bole Japan","Brand new 3-bedroom apartment in Noah’s Bole Japan project – gym, pool, and backup generator included.",Addis Ababa,apartment,4200000,3,2,165,Available
+4,"Noah Classic House – Yeka","Spacious 4-bedroom family home by Noah Real Estate with large garden and servant quarter.",Addis Ababa,house,6800000,4,3,280,Available
+5,"Sunshine La Gare Apartment","Prime location near La Gare – 3-bed luxury unit with Italian finishes and smart home system.",Addis Ababa,apartment,5800000,3,3,190,Available
+6,"Sunshine Villa – Megenagna","Exclusive 6-bedroom villa with swimming pool by Sunshine Investment Group.",Addis Ababa,house,17500000,6,6,600,Available
+7,"Metropolitan Sarbet Gabriel","High-end 3-bedroom apartment in the iconic Sarbet Gabriel tower – concierge and rooftop lounge.",Addis Ababa,apartment,7200000,3,3,210,Available
+8,"Flintstone Homes – Bole Atlas","Modern 2-bedroom apartment with balcony overlooking Bole Road – Flintstone quality.",Addis Ababa,apartment,3100000,2,2,115,Available
+9,"Yotek German Square Residence","Stylish 3-bedroom unit in the heart of German Square – walking distance to everything.",Addis Ababa,apartment,4900000,3,2,155,Available
+10,"Habitat New Flower – Jemo","Affordable luxury 3-bedroom apartment in Jemo with green areas and kids’ playground.",Addis Ababa,apartment,2600000,3,2,135,Available
+11,"Enyi Real Estate – Bole Bulbula","Brand new 4-bedroom townhouse with rooftop terrace in fast-growing Bole Bulbula area.",Addis Ababa,house,5500000,4,3,220,Available
+12,"Tsehay Real Estate (CMC) Villa","Elegant 5-bedroom villa with big compound in CMC area – built with Tsehay’s renowned quality.",Addis Ababa,house,9800000,5,4,380,Available
+13,"Pluto Real Estate – Kazanchis","Sophisticated 3-bedroom apartment in the diplomatic district of Kazanchis.",Addis Ababa,apartment,6500000,3,3,180,Available
+14,"Nova Real Estate – Summit","Modern 2-bedroom condo near Summit with gym and sauna.",Addis Ababa,apartment,3400000,2,2,120,Available
+15,"Temer Properties – Lebu","Upcoming 4-bedroom luxury home in Lebu – expected completion 2026.",Addis Ababa,house,7200000,4,4,300,Available
+16,"Ovid Group – Mexico","High-rise 3-bedroom apartment with stunning views near Mexico Square.",Addis Ababa,apartment,5100000,3,2,170,Available
+17,"Ayat Studio – Bole Rwanda","Compact but luxurious studio apartment perfect for young professionals.",Addis Ababa,studio,1450000,1,1,55,Available
+18,"Noah Commercial Space – Piassa","Prime shop/retail space in historic Piassa – high foot traffic.",Addis Ababa,commercial,8900000,0,2,200,Available
+19,"Sunshine Bahir Dar Lakeside Villa","Rare lakeside 4-bedroom villa in Bahir Dar with private boat dock.",Bahir Dar,house,13500000,4,4,400,Available
+20,"Flintstone Bahir Dar Condo","Modern 3-bedroom apartment overlooking Lake Tana – Flintstone’s first project in Bahir Dar.",Bahir Dar,apartment,3900000,3,2,150,Available
+21,"Ayat Real Estate – Bahir Dar Resort","Exclusive 5-bedroom resort-style villa with infinity pool.",Bahir Dar,house,21000000,5,6,550,Available
+22,"Metropolitan Real Estate – Old Airport","Classic 3-bedroom apartment in peaceful Old Airport area.",Addis Ababa,apartment,2950000,3,2,140,Sold
+23,"Noah Real Estate – Akaki","Affordable 2-bedroom family apartment in growing Akaki area.",Addis Ababa,apartment,1850000,2,1,95,Available
+24,"Sunshine Investment – Gerji","Luxury 4-bedroom penthouse with huge terrace in Gerji.",Addis Ababa,apartment,9200000,4,4,310,Available
+25,"Yotek Real Estate – Megenagna","Elegant 3-bedroom unit with smart lighting and security system.",Addis Ababa,apartment,4600000,3,2,160,Available
+26,"Habitat New Flower – Ayat","New phase 3-bedroom apartment with balcony and green view.",Addis Ababa,apartment,3350000,3,2,145,Available
+27,"Tsehay Real Estate – Sarbet","High-end 4-bedroom townhouse with private garden.",Addis Ababa,house,7800000,4,3,260,Available
+28,"Pluto Real Estate – Bole Medhanialem","Modern 3-bedroom apartment near Medhanialem Church.",Addis Ababa,apartment,4100000,3,2,155,Available
+29,"Ovid Group – Lideta","Stylish 2-bedroom condo with gym and co-working space.",Addis Ababa,apartment,3200000,2,2,110,Available
+30,"Enyi Real Estate – Summit","Luxury 3-bedroom apartment with panoramic city views.",Addis Ababa,apartment,6700000,3,3,195,Available
+31,Cozy Apartment in Bole,Modern 2-bedroom apartment in the heart of Bole with great views and amenities.,Addis Ababa,apartment,1500000,2,2,120,Available
+2,Spacious House in Piassa,Traditional Ethiopian house with large yard perfect for families.,Addis Ababa,house,2800000,4,3,250,Available
+3,Studio in Meskel Square,Compact studio ideal for students close to public transport.,Addis Ababa,studio,750000,1,1,48,Rented
+4,Luxury Villa Overlooking Lake Tana,Beautiful villa with private garden and swimming pool.,Bahir Dar,house,5200000,5,5,450,Available
+5,Modern Apartment Near Blue Nile,2-bedroom with balcony and lake-view modern facilities.,Bahir Dar,apartment,1350000,2,2,115,Available
+6,Family Home in Addis Ketema,Comfortable 3-bedroom in a quiet neighborhood.,Addis Ababa,house,1950000,3,2,190,Sold
+7,Affordable Studio in Bahir Dar Center,Near markets and schools very walkable.,Bahir Dar,studio,580000,1,1,42,Available
+8,Penthouse in CMC,Top-floor luxury with rooftop terrace and 360° city views.,Addis Ababa,apartment,6800000,4,4,380,Available
+9,Lakeside Cottage by Lake Tana,Cozy cottage with direct lake access.,Bahir Dar,house,2100000,3,2,140,Rented
+10,New Apartment in Sarbet,Gym parking and 24/7 security included.,Addis Ababa,apartment,2400000,3,2,145,Available
+11,Traditional House in Merkato,Large courtyard near the famous market.,Addis Ababa,house,3100000,5,3,290,Available
+12,Waterfront 1-Bed in Bahir Dar,Fully furnished with direct Lake Tana view.,Bahir Dar,apartment,950000,1,1,78,Pending
+13,Student Studio Near AAU,Walking distance to Addis Ababa University.,Addis Ababa,studio,680000,1,1,38,Rented
+14,Eco Villa in Entoto Hills,Solar-powered mountain-view home with garden.,Addis Ababa,house,4200000,4,4,360,Available
+15,Lakeside Family House in Bahir Dar,Private dock and big garden.,Bahir Dar,house,3300000,4,3,230,Sold
+16,Diplomatic-Area Apartment in Kazanchis,Concierge gym and high security.,Addis Ababa,apartment,3800000,3,3,210,Available
+17,Compact Studio in Gishe,Budget-friendly central location.,Bahir Dar,studio,520000,1,1,36,Available
+18,Gated Compound House in Bole Bulbula,Shared pool gym and playground.,Addis Ababa,house,4800000,4,3,310,Available
+19,Riverside Cottage Blue Nile,Peaceful 2-bedroom along the river.,Bahir Dar,house,1750000,2,1,118,Rented
+20,Executive Penthouse Megenagna,Jacuzzi private terrace skyline view.,Addis Ababa,apartment,7200000,5,5,420,Available
+21,Budget 2-Bed in Lideta,Near shops and metro line.,Addis Ababa,apartment,1280000,2,1,98,Available
+22,Modern House Near Bahir Dar University,Study rooms and fiber internet.,Bahir Dar,house,2450000,3,2,175,Pending
+23,Studio Mexico Square,Central business district location.,Addis Ababa,studio,890000,1,1,52,Available
+24,Exclusive Lake-View Villa Bahir Dar,Infinity pool and boat dock.,Bahir Dar,house,6800000,6,6,520,Available
+25,Classic House in Arat Kilo,Historic area needs light renovation.,Addis Ababa,house,1650000,3,2,155,Rented
+26,Brand-New Condo in Jemo,Modern finishing 24/7 power and water.,Addis Ababa,apartment,2100000,3,2,135,Available
+27,G+1 House in Ayat,Gated community with security.,Addis Ababa,house,5500000,5,4,340,Available
+28,Studio in Piassa,Near churches and cafes.,Addis Ababa,studio,720000,1,1,45,Rented
+29,Luxury Apartment in Old Airport,High-end finishes and rooftop pool.,Addis Ababa,apartment,4500000,3,3,220,Available
+30,Affordable House in Kera,Big plot suitable for redevelopment.,Addis Ababa,house,1900000,3,2,200,Sold
+31,3-Bed Apartment in Summit,Close to international schools.,Addis Ababa,apartment,3200000,3,2,160,Available
+32,Guest House in Bahir Dar Ghion,Currently operating as small hotel.,Bahir Dar,house,4200000,8,6,380,Available
+33,Studio Near Stadium,Perfect for sports fans.,Addis Ababa,studio,810000,1,1,50,Available
+34,Villa in Gerji,Large garden and staff quarters.,Addis Ababa,house,5800000,5,4,400,Pending
+35,1-Bed Near Poly Bahir Dar,Walking distance to university.,Bahir Dar,apartment,780000,1,1,65,Rented
+36,Modern Loft in Bole Rwanda,Open-plan industrial style.,Addis Ababa,apartment,2900000,2,2,150,Available
+37,Townhouse in Hayat,Small compound with shared garden.,Addis Ababa,house,3600000,3,3,200,Available
+38,Cheap Studio in Merkato,Above commercial shops.,Addis Ababa,studio,490000,1,1,32,Rented
+39,Penthouse in Kirkos,Private elevator and terrace.,Addis Ababa,apartment,6500000,4,4,360,Available
+40,Lake-View House in Bahir Dar Kebele 14,Direct beach access.,Bahir Dar,house,3800000,4,3,240,Available
+41,2-Bed in Lebu,Near train station.,Addis Ababa,apartment,1450000,2,1,105,Available
+42,G+2 Commercial-Residential in Bahir Dar,Bottom floor shop top floors living.,Bahir Dar,house,4900000,6,4,420,Available
+43,Renovated House in Shiromeda,New plumbing and electric.,Addis Ababa,house,2700000,4,2,180,Sold
+44,Studio in Signal,Near malls and cafes.,Addis Ababa,studio,920000,1,1,54,Available
+45,Luxury Villa in Bole Lemi,Brand-new compound with clubhouse.,Addis Ababa,house,8500000,6,6,550,Available
+46,Waterfront Apartment Bahir Dar Abay Mado,Modern block with gym.,Bahir Dar,apartment,1600000,2,2,120,Available
+47,Family Apartment in Kolfe,Playground inside compound.,Addis Ababa,apartment,1850000,3,2,140,Rented
+48,Old Ambassador Villa in Old Airport,Big plot diplomatic area.,Addis Ababa,house,12000000,7,6,650,Available
+49,Studio Near Tana Hotel Bahir Dar,Great for tourists.,Bahir Dar,studio,650000,1,1,40,Available
+50,Penthouse with Pool in Bole,Private rooftop pool and BBQ area.,Addis Ababa,apartment,9500000,5,5,480,Pending
+51,3-Bed in Akaki,Affordable family home.,Addis Ababa,house,1550000,3,2,165,Sold
+52,Lake House with Boat in Bahir Dar,Includes speedboat.,Bahir Dar,house,5900000,4,4,300,Available
+53,New Studio in Gotera,Fully furnished.,Addis Ababa,studio,980000,1,1,58,Available
+54,G+1 in Lafto,Good rental income potential.,Addis Ababa,house,3400000,4,3,220,Available
+55,Condo in Africa Avenue,Tower with concierge.,Addis Ababa,apartment,4100000,3,3,195,Available
+56,River-View House in Bahir Dar,Direct Blue Nile view.,Bahir Dar,house,2650000,3,2,170,Rented
+57,2-Bed in Saris,Near ring road.,Addis Ababa,apartment,1680000,2,2,110,Available
+58,Traditional Tukul Style Villa,Modern amenities inside traditional look.,Addis Ababa,house,3900000,4,3,260,Available
+59,Studio in 4 Kilo,Near Arat Kilo campus.,Addis Ababa,studio,710000,1,1,44,Rented
+60,Luxury Duplex in Yeka Hills,Panoramic city view.,Addis Ababa,apartment,5100000,4,3,280,Available
+61,Small House in Nifas Silk,Good for starter family.,Addis Ababa,house,1780000,2,1,120,Sold
+62,Hotel-Style Apartment in Bahir Dar,Currently Airbnb 80% occupancy.,Bahir Dar,apartment,2200000,2,2,130,Available
+63,High-Rise Studio in Bole Medhanealem,24/7 power and water.,Addis Ababa,studio,1050000,1,1,60,Available
+64,Gated Villa in CMC Compound,Clubhouse and tennis court.,Addis Ababa,house,7800000,5,5,480,Available
+65,2-Bed Near Ghion Bahir Dar,Walking to lake and restaurants.,Bahir Dar,apartment,1250000,2,1,100,Rented
+66,Renovated Apartment in Kazanchis,Diplomatic zone.,Addis Ababa,apartment,3600000,3,2,180,Available
+67,Big Plot House in Kotebe,Suitable for redevelopment.,Addis Ababa,house,4300000,4,2,300,Available
+68,Lake Tana View Penthouse,Top floor with huge terrace.,Bahir Dar,apartment,2900000,3,3,200,Available
+69,Studio in Piazza,Historic building fully renovated.,Addis Ababa,studio,880000,1,1,50,Sold
+70,Luxury Villa in Ayat Real Estate,Modern compound with security.,Addis Ababa,house,9200000,6,6,580,Available
+71,Affordable 1-Bed in Hana Mariam Bahir Dar,Near poly and market.,Bahir Dar,apartment,680000,1,1,70,Rented
+72,3-Bed in Mexico,Near embassies.,Addis Ababa,apartment,3400000,3,2,165,Available
+73,G+2 in Summit Condo,Roof garden and gym.,Addis Ababa,house,6700000,5,4,350,Pending
+74,Cozy Cottage Near Bezawit Bahir Dar,Quiet neighborhood.,Bahir Dar,house,1550000,2,1,95,Available
+75,Executive Apartment in Bole Atlas,High floor city view.,Addis Ababa,apartment,4400000,3,3,205,Available
+76,Old House in Sidist Kilo,Big land value.,Addis Ababa,house,3800000,4,2,240,Sold
+77,New Lake-View Block Bahir Dar,Just completed modern finishing.,Bahir Dar,apartment,1950000,3,2,145,Available
+78,Studio in Hayahulet,Near EDC and cafes.,Addis Ababa,studio,960000,1,1,56,Available
+79,Villa in Bole Rwanda Embassy Area,Expat standard.,Addis Ababa,house,8800000,5,5,460,Available
+80,1-Bed in Kebele 03 Bahir Dar,Close to airport.,Bahir Dar,apartment,740000,1,1,68,Rented
+81,Modern Townhouse in Jemo 1,Small compound with garden.,Addis Ababa,house,3950000,3,3,210,Available
+82,Penthouse Near UNECA,Diplomatic area top floor.,Addis Ababa,apartment,5800000,4,4,320,Available
+83,Family House in Tulu Dimtu,Big yard kids friendly.,Addis Ababa,house,2250000,3,2,185,Sold
+84,Lake Tana Resort-Style Villa,Private pool and jetty.,Bahir Dar,house,7800000,7,7,600,Available
